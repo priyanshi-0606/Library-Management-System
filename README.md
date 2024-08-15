@@ -1,4 +1,4 @@
-:star: Please star this project. It helps a lot.
+
 # LibraryManagementSystem
 Library Management System is a C++ object oriented programming project.
 
