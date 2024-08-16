@@ -2,6 +2,12 @@
 # LibraryManagementSystem
 Library Management System is a C++ object oriented programming project.
 
+Participants:
+
+Priyanshi Gupta
+Arun Agarwal
+Pragati Nagpal 
+
 ![](.//media/Capture1.PNG?raw=true)
 
 ![](.//media/Capture2.PNG?raw=true)
